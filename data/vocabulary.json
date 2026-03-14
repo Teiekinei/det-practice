@@ -1,0 +1,29 @@
+{
+  "words": [
+    {
+      "id": "v001",
+      "word": "brevity",
+      "type": "real"
+    },
+    {
+      "id": "v002",
+      "word": "flurpish",
+      "type": "fake"
+    },
+    {
+      "id": "v003",
+      "word": "eloquent",
+      "type": "real"
+    },
+    {
+      "id": "v004",
+      "word": "mettish",
+      "type": "fake"
+    },
+    {
+      "id": "v005",
+      "word": "persevere",
+      "type": "real"
+    }
+  ]
+}
